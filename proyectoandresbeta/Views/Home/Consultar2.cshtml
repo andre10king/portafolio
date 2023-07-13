@@ -1,0 +1,314 @@
+﻿
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+    <title>Eliminar datos en AngularJS</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+</head>
+<body ng-app="myApp" ng-controller="myCtrl">
+
+    <h2>Metodo editar</h2>
+    <div ng-controller="myCtrl">
+
+
+        <form name="myForm" novalidate class="text-center">
+            <label for="Descripcion">Id:</label>
+            <input type="text" id="id" ng-disabled="true" ng-model="objetoParametros.Id"><br><br>
+
+            <label for="Descripcion">Descripcion:</label>
+            <input type="text" id="Descripcion" ng-model="objetoParametros.Descripcion"><br><br>
+
+            <label for="marca">marca:</label>
+            <input type="text" id="Marca" ng-model="objetoParametros.Marca"><br><br>
+
+            <label for="Cantidad">Cantidad:</label>
+            <input type="number" id="Cantidad" ng-model="objetoParametros.Cantidad"><br><br>
+
+            <label for="precio">Precio:</label>
+            <input type="number" id="precio" ng-model="objetoParametros.Precio"><br><br>
+
+
+            <button class="btn-success" ng-click="update(objetoParametros,a.Id)">Actualizar</button>
+            <br />
+            <button ng-click="limpiar(objetoParametros)">Limpiar</button>
+
+
+        </form>
+
+
+
+        <table class="table">
+            <tr>
+                <th>
+                    Id
+                </th>
+                <th>
+                    Descripcion
+                </th>
+                <th>
+                    Marca
+                </th>
+                <th>
+                    Cantidad
+                </th>
+                <th>
+                    Precio
+                </th>
+
+            </tr>
+
+
+            <tr ng-repeat="a in articulos2 " ng-click="seleccionarPersona(a)">
+
+
+                <td>
+                    {{a.Id}}
+
+
+
+
+                </td>
+                <td>
+                    {{a.Descripcion}}
+
+
+
+
+                </td>
+                <td>
+                    {{a.Marca}}
+
+
+                </td>
+                <td>
+                    {{a.Cantidad}}
+
+                </td>
+                <td>
+                    {{a.Precio}}
+
+                </td>
+
+
+
+            </tr>
+
+
+        </table>
+
+
+
+
+
+
+
+        @*<form>
+            <input type="text" ng-disabled="true" ng-model="objetoParametros.Id">
+            <input type="text" ng-model="objetoParametros.Descripcion">
+            <input type="text" ng-model="objetoParametros.Marca">
+            <input type="text" ng-model="objetoParametros.Cantidad">
+            <input type="text" ng-model="objetoParametros.Precio">
+            <button ng-click="update(objetoParametros,a.Id)">Actualizar</button>
+            <button ng-click="limpiar(objetoParametros)">Limpiar</button>
+
+        </form>*@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    <script>
+        var app = angular.module('myApp', []);
+        app.controller('myCtrl', function ($scope, $http) {
+
+
+            $scope.objetoParametros = {
+                Id: '',
+                Descripcion: '',
+                Marca: '',
+                Cantidad: 0,
+                Precio: 0
+
+            };
+
+
+            $scope.limpiar = function (objetoParametros) {
+                objetoParametros.Id = '',
+                    objetoParametros.Descripcion = '',
+                    objetoParametros.Marca = '',
+                    objetoParametros.Cantidad = 0,
+                    objetoParametros.Precio = 0
+
+            };
+
+
+
+
+            $http.get('/api/articuloes').then(function (response) {
+                debugger
+                $scope.articulos2 = response.data;
+
+            });
+
+            $scope.seleccionarPersona = function (a) {
+                $scope.objetoParametros = a;
+            };
+
+
+            //$scope.submitForm = function (parametros) {
+
+
+            //    $http.post('/api/articuloes',  {
+
+            //        descripcion: parametros.Descripcion,
+            //            marca: parametros.Marca,
+            //                cantidad: parametros.Cantidad,
+            //                    precio: parametros.precio
+
+
+            //    })
+            //        .success(function (data) {
+            //            $scope.dataActividades = data.response;
+            //        })
+
+
+
+
+
+            //};
+
+
+
+            $scope.submitForm = function (parametros) {
+
+
+                $http.post('/api/articuloes', {
+
+                    descripcion: parametros.Descripcion,
+                    marca: parametros.Marca,
+                    cantidad: parametros.Cantidad,
+                    precio: parametros.precio
+
+
+                })
+                    .success(function (data) {
+                        $scope.dataActividades = data.response;
+                    })
+
+
+
+
+
+            };
+
+
+            $scope.update = function (parametros, id) {
+                debugger
+                id: parametros.Id,
+
+
+
+                    $http.put('/api/articuloes/' + parametros.Id, parametros).then(function (response) {
+                        console.log('Object updated successfully!');
+                    }, function (error) {
+                        console.error('Error updating object:', error);
+                    });
+
+            };
+
+
+            //$scope.submitForm = function (id) {
+
+            //        debugger
+            //        var data = {
+            //            id: $scope.Id,
+
+            //            descripcion: $scope.Descripcion,
+            //            marca: $scope.Marca,
+            //            cantidad: $scope.Cantidad,
+            //            precio: $scope.precio
+            //        };
+            //        $http.put('/api/articuloes/' + id, data).then(function (response) {
+            //            console.log(response);
+            //        });
+
+
+
+
+
+            //};
+
+
+
+
+
+            //$http.put('/api/articuloes/' + a.id, object).then(function (response) {
+            //    console.log('Object updated successfully!');
+            //}, function (error) {
+            //    console.error('Error updating object:', error);
+            //});
+
+
+        });
+    </script>
+
+
+    <!-- CSS -->
+    <style>
+        form {
+            width: 400px;
+            margin: 20px auto;
+            font-family: Arial, sans-serif;
+        }
+
+        .form-group {
+            margin-bottom: 10px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        input, textarea {
+            width: 100%;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        textarea {
+            height: 100px;
+            resize: none;
+        }
+
+        button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+
+
+</body>
+</html>

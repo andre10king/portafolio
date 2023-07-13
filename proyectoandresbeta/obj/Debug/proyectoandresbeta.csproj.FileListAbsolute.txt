@@ -1,0 +1,988 @@
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\proyectoandresbeta.dll.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\csc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\csc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\csc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\csi.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\csi.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\System.AppContext.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\vbc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\vbc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\vbc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\Antlr3.Runtime.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\EntityFramework.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\EntityFramework.SqlServer.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\Newtonsoft.Json.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Net.Http.Formatting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.Helpers.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.Http.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.Http.WebHost.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.Mvc.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.Optimization.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.WebPages.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\WebGrease.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\EntityFramework.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\EntityFramework.SqlServer.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\Newtonsoft.Json.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Net.Http.Formatting.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.Helpers.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.Http.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.Http.WebHost.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.Mvc.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.Optimization.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.WebPages.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\Antlr3.Runtime.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\es\System.Web.Http.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\es\System.Web.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.AssemblyReference.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CoreCompileInputs.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CopyComplete
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\obj\Debug\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta\proyectoandresbeta\obj\Debug\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\proyectoandresbeta.dll.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\csc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\csc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\csc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\csi.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\csi.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\System.AppContext.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\vbc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\vbc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\vbc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\Antlr3.Runtime.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\EntityFramework.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\EntityFramework.SqlServer.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\Newtonsoft.Json.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Net.Http.Formatting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.Helpers.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.Http.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.Http.WebHost.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.Mvc.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.Optimization.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.WebPages.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\WebGrease.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\EntityFramework.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\EntityFramework.SqlServer.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\Newtonsoft.Json.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Net.Http.Formatting.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.Helpers.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.Http.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.Http.WebHost.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.Mvc.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.Optimization.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.WebPages.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\Antlr3.Runtime.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\es\System.Web.Http.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\es\System.Web.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.AssemblyReference.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CoreCompileInputs.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CopyComplete
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\obj\Debug\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia\proyectoandresbeta\obj\Debug\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\proyectoandresbeta.dll.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\csc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\csc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\csc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\csi.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\csi.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\System.AppContext.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\vbc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\vbc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\vbc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\Antlr3.Runtime.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\EntityFramework.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\EntityFramework.SqlServer.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\Newtonsoft.Json.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Net.Http.Formatting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.Helpers.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.Http.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.Http.WebHost.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.Mvc.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.Optimization.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.WebPages.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\WebGrease.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\EntityFramework.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\EntityFramework.SqlServer.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\Newtonsoft.Json.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Net.Http.Formatting.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.Helpers.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.Http.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.Http.WebHost.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.Mvc.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.Optimization.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.WebPages.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\Antlr3.Runtime.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\es\System.Web.Http.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\es\System.Web.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.AssemblyReference.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CoreCompileInputs.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CopyComplete
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\obj\Debug\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - copia - validacion\proyectoandresbeta\obj\Debug\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\proyectoandresbeta.dll.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\csc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\csc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\csc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\csi.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\csi.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\System.AppContext.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\vbc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\vbc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\vbc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\Antlr3.Runtime.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\EntityFramework.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\EntityFramework.SqlServer.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\Newtonsoft.Json.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Net.Http.Formatting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.Helpers.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.Http.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.Http.WebHost.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.Mvc.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.Optimization.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.WebPages.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\WebGrease.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\EntityFramework.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\EntityFramework.SqlServer.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\Newtonsoft.Json.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Net.Http.Formatting.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.Helpers.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.Http.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.Http.WebHost.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.Mvc.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.Optimization.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.WebPages.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\Antlr3.Runtime.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\es\System.Web.Http.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\es\System.Web.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.AssemblyReference.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CoreCompileInputs.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CopyComplete
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\obj\Debug\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño\proyectoandresbeta\obj\Debug\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\proyectoandresbeta.dll.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\csc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\csc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\csc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\csi.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\csi.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\System.AppContext.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\vbc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\vbc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\vbc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\Antlr3.Runtime.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\EntityFramework.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\EntityFramework.SqlServer.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\Newtonsoft.Json.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Net.Http.Formatting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.Helpers.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.Http.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.Http.WebHost.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.Mvc.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.Optimization.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.WebPages.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\WebGrease.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\EntityFramework.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\EntityFramework.SqlServer.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\Newtonsoft.Json.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Net.Http.Formatting.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.Helpers.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.Http.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.Http.WebHost.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.Mvc.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.Optimization.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.WebPages.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\Antlr3.Runtime.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\es\System.Web.Http.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\es\System.Web.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.AssemblyReference.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CoreCompileInputs.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CopyComplete
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\obj\Debug\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   3\proyectoandresbeta\obj\Debug\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\proyectoandresbeta.dll.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\csc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\csc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\csc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\csi.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\csi.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\System.AppContext.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\vbc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\vbc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\vbc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\Antlr3.Runtime.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\EntityFramework.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\EntityFramework.SqlServer.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\Newtonsoft.Json.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Net.Http.Formatting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.Helpers.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.Http.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.Http.WebHost.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.Mvc.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.Optimization.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.WebPages.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\WebGrease.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\EntityFramework.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\EntityFramework.SqlServer.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\Newtonsoft.Json.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Net.Http.Formatting.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.Helpers.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.Http.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.Http.WebHost.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.Mvc.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.Optimization.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.WebPages.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\Antlr3.Runtime.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\es\System.Web.Http.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\es\System.Web.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.AssemblyReference.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CoreCompileInputs.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CopyComplete
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\obj\Debug\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   5\proyectoandresbeta\obj\Debug\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\proyectoandresbeta.dll.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\csc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\csc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\csc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\csi.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\csi.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\System.AppContext.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\vbc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\vbc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\vbc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\Antlr3.Runtime.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\EntityFramework.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\EntityFramework.SqlServer.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\Newtonsoft.Json.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Net.Http.Formatting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.Helpers.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.Http.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.Http.WebHost.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.Mvc.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.Optimization.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.WebPages.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\WebGrease.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\EntityFramework.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\EntityFramework.SqlServer.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\Newtonsoft.Json.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Net.Http.Formatting.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.Helpers.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.Http.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.Http.WebHost.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.Mvc.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.Optimization.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.WebPages.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\Antlr3.Runtime.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\es\System.Web.Http.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\es\System.Web.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.AssemblyReference.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CoreCompileInputs.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CopyComplete
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\obj\Debug\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   6\proyectoandresbeta\obj\Debug\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\proyectoandresbeta.dll.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\csc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\csc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\csc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\csi.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\csi.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\System.AppContext.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\vbc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\vbc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\vbc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\Antlr3.Runtime.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\EntityFramework.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\EntityFramework.SqlServer.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\Newtonsoft.Json.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Net.Http.Formatting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.Helpers.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.Http.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.Http.WebHost.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.Mvc.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.Optimization.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.WebPages.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\WebGrease.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\EntityFramework.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\EntityFramework.SqlServer.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\Newtonsoft.Json.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Net.Http.Formatting.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.Helpers.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.Http.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.Http.WebHost.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.Mvc.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.Optimization.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.WebPages.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\Antlr3.Runtime.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\es\System.Web.Http.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\es\System.Web.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.AssemblyReference.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CoreCompileInputs.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CopyComplete
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\obj\Debug\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   7\proyectoandresbeta\obj\Debug\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\proyectoandresbeta.dll.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\csc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\csc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\csc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\csi.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\csi.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\System.AppContext.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\vbc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\vbc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\vbc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\Antlr3.Runtime.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\EntityFramework.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\EntityFramework.SqlServer.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\Newtonsoft.Json.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Net.Http.Formatting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.Helpers.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.Http.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.Http.WebHost.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.Mvc.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.Optimization.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.WebPages.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\WebGrease.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\EntityFramework.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\EntityFramework.SqlServer.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\Newtonsoft.Json.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Net.Http.Formatting.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.Helpers.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.Http.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.Http.WebHost.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.Mvc.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.Optimization.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.WebPages.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\Antlr3.Runtime.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\es\System.Web.Http.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\es\System.Web.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.AssemblyReference.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CoreCompileInputs.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CopyComplete
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\obj\Debug\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - validar y diseño   8\proyectoandresbeta\obj\Debug\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\proyectoandresbeta.dll.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\csc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\csc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\csc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\csi.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\csi.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\System.AppContext.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\vbc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\vbc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\vbc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\Antlr3.Runtime.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\EntityFramework.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\EntityFramework.SqlServer.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\Newtonsoft.Json.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Net.Http.Formatting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.Helpers.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.Http.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.Http.WebHost.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.Mvc.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.Optimization.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.WebPages.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\WebGrease.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\EntityFramework.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\EntityFramework.SqlServer.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\Newtonsoft.Json.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Net.Http.Formatting.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.Helpers.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.Http.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.Http.WebHost.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.Mvc.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.Optimization.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.WebPages.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\Antlr3.Runtime.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\es\System.Web.Http.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\es\System.Web.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.AssemblyReference.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CoreCompileInputs.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CopyComplete
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\obj\Debug\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   9\proyectoandresbeta\obj\Debug\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\proyectoandresbeta.dll.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\csc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\csc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\csc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\csi.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\csi.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\System.AppContext.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\vbc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\vbc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\vbc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\Antlr3.Runtime.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\EntityFramework.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\EntityFramework.SqlServer.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\Newtonsoft.Json.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Net.Http.Formatting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.Helpers.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.Http.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.Http.WebHost.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.Mvc.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.Optimization.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.WebPages.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\WebGrease.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\EntityFramework.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\EntityFramework.SqlServer.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\Newtonsoft.Json.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Net.Http.Formatting.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.Helpers.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.Http.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.Http.WebHost.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.Mvc.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.Optimization.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.WebPages.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\Antlr3.Runtime.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\es\System.Web.Http.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\es\System.Web.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.AssemblyReference.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CoreCompileInputs.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CopyComplete
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\obj\Debug\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   10\proyectoandresbeta\obj\Debug\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\proyectoandresbeta.dll.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\csc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\csc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\csc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\csi.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\csi.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\System.AppContext.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\vbc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\vbc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\vbc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\Antlr3.Runtime.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\EntityFramework.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\EntityFramework.SqlServer.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\Newtonsoft.Json.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Net.Http.Formatting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.Helpers.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.Http.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.Http.WebHost.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.Mvc.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.Optimization.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.WebPages.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\WebGrease.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\EntityFramework.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\EntityFramework.SqlServer.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\Newtonsoft.Json.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Net.Http.Formatting.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.Helpers.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.Http.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.Http.WebHost.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.Mvc.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.Optimization.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.WebPages.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\Antlr3.Runtime.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\es\System.Web.Http.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\es\System.Web.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.AssemblyReference.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CoreCompileInputs.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CopyComplete
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\obj\Debug\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   11\proyectoandresbeta\obj\Debug\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\proyectoandresbeta.dll.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\proyectoandresbeta.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\csc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\csc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\csc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\csi.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\csi.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\System.AppContext.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\vbc.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\vbc.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\vbc.rsp
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\Antlr3.Runtime.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\EntityFramework.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\EntityFramework.SqlServer.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\Newtonsoft.Json.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Net.Http.Formatting.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.Helpers.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.Http.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.Http.WebHost.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.Mvc.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.Optimization.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.WebPages.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\WebGrease.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\EntityFramework.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\EntityFramework.SqlServer.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\Newtonsoft.Json.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Net.Http.Formatting.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.Helpers.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.Http.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.Http.WebHost.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.Mvc.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.Optimization.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.WebPages.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\Antlr3.Runtime.pdb
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\es\System.Web.Http.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\es\System.Web.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.AssemblyReference.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CoreCompileInputs.cache
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\obj\Debug\proyectoandresbeta.csproj.CopyComplete
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\obj\Debug\proyectoandresbeta.dll
+C:\Users\andres.urrea\source\repos\proyectoandresbeta - editar   14\proyectoandresbeta\obj\Debug\proyectoandresbeta.pdb

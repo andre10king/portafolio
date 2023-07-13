@@ -1,0 +1,224 @@
+﻿<!DOCTYPE html>
+<html ng-app="articuloModule">
+<head>
+    <title>AngularJS Form Validation</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    @*<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.5.0/ui-bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.5/angular.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.5.0/ui-bootstrap-tpls.min.js"></script>*@
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/Scripts/App.js"></script>
+
+</head>
+<body ng-app="articuloModule" ng-controller="articuloController">
+
+    @*<br />
+        <div style=" text-align: center">
+            <button class="btn-success" ng-click="openForm()">Abrir formulario</button>
+        </div>*@
+
+
+
+
+
+    <form name="myForm" novalidate class="text-center">
+
+
+        <label for="Descripcion">Descripcion:</label>
+        <input type="text" id="Descripcion" ng-model="Descripcion" required><br><br>
+
+        <label for="marca">marca:</label>
+        <input type="text" id="Marca" ng-model="Marca" required><br><br>
+
+        <label for="Cantidad">Cantidad:</label>
+        <input type="number" id="Cantidad" ng-model="Cantidad" required><br><br>
+
+        <label for="precio">Precio:</label>
+        <input type="number" id="precio" ng-model="precio" required><br><br>
+
+
+
+
+
+        <button class="btn-success" ng-click="submitForm()">Submit</button>
+    </form>
+
+
+
+
+
+    <br />
+    <br />
+
+
+
+
+    <div ng-controller="articuloController">
+        <table class="table">
+            <tr>
+                <th>
+                    Id
+                </th>
+                <th>
+                    Descripcion
+                </th>
+                <th>
+                    Marca
+                </th>
+                <th>
+                    Cantidad
+                </th>
+                <th>
+                    Precio
+                </th>
+                <th>
+                    Eliminar
+                </th>
+
+            </tr>
+
+
+            <tr ng-repeat="a in articulos2 ">
+
+
+                <td>
+                    {{a.Id}}
+
+
+
+
+                </td>
+                <td>
+                    {{a.Descripcion}}
+
+
+
+
+                </td>
+                <td>
+                    {{a.Marca}}
+
+
+                </td>
+                <td>
+                    {{a.Cantidad}}
+
+                </td>
+                <td>
+                    {{a.Precio}}
+
+                </td>
+
+                <td>
+                    <button class="btn-danger" ng-click=" deleteItem(a);delete(a.Id) ">Eliminar</button>
+                    @*<button ng-click="delete(a.Id) ">Eliminar1</button>*@
+                </td>
+
+            </tr>
+
+
+        </table>
+    </div>
+
+
+
+
+
+
+
+
+    <!-- CSS -->
+    <style>
+        form {
+            width: 400px;
+            margin: 20px auto;
+            font-family: Arial, sans-serif;
+        }
+
+        .form-group {
+            margin-bottom: 10px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        input, textarea {
+            width: 100%;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        textarea {
+            height: 100px;
+            resize: none;
+        }
+
+        button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+
+
+
+
+
+
+
+
+
+    @*<script>
+            var app = angular.module('articuloModule', ['ui.bootstrap']);
+            app.controller('articuloController', function ($scope, $uibModal) {
+                $scope.openForm = function () {
+                    $uibModal.open({
+                        templateUrl: 'formulario.html',
+                        controller: 'formCtrl'
+                    });
+                };
+            });
+            app.controller('formCtrl', function ($scope) {
+                $scope.submitForm = function () {
+                    console.log('Formulario enviado');
+                };
+            });
+        </script>*@
+
+    @*<script type="text/ng-template" id="formulario.html">
+            <div class="modal-header">
+                <h3 class="modal-title">Formulario de contacto</h3>
+            </div>
+            <div class="modal-body">
+                <form ng-submit="submitForm()">
+                    <label>Nombre:</label>
+                    <input type="text" ng-model="nombre" required><br>
+
+                    <label>Email:</label>
+                    <input type="email" ng-model="email" required><br>
+
+                    <button type="submit">Enviar</button>
+                </form>
+            </div>
+        </script>*@
+
+</body>
+</html>
+
+
+
+
+
+
+

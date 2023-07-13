@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+    <title>AngularJS Form Validation</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+</head>
+
+<body ng-app="myApp" ng-controller="myCtrl">
+    <form name="myForm" novalidate>
+        <label for="id">id:</label>
+        <input type="text" id="id" ng-model="id" required><br><br>
+        <button ng-click="submitForm(id)">Submit</button>
+    </form>
+
+
+
+
+
+    <script>
+        var app = angular.module('myApp', []);
+        app.controller('myCtrl', function ($scope, $http) {
+            $scope.submitForm = function (id) {
+                debugger
+              /*  Descripcion = response.data.id;*/
+                fetch("https://jsonplaceholder.typicode.com/todos/"+id)
+                    .then(res => res.json())
+                    .then(json => console.log(json));
+            };
+        });
+    </script>
+
+</body>
+</html>
